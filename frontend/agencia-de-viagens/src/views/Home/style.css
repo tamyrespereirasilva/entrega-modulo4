@@ -1,0 +1,11 @@
+
+.inicio h2{
+    font-family:'Times New Roman', Times, serif;
+    margin: 60px;
+    color:  rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.card-text{
+    font-family:monospace;
+}
